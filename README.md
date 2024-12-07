@@ -1,3 +1,4 @@
+> Solo tu programador que esta en todo y con todo para todo por todos ademas de todo para que todos escribamos todo el codigo sin todos los problemas que todo esto conlleva 
 <h3 align="center">Tecnologias y/o programas que uso diariamente <3</h3>
 <p align="center">
     <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="Javascript" width="60" height="60"/>  </a>

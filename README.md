@@ -8,4 +8,4 @@ que podemos hacer? v:p
 
 Lenguajes de toda la vida: Python, Java, GDscript
 ![Imagen](/icons/css.svg){ width: 300px; height: auto; }
-![](/icons/godot.svg){ width: 300px; height: auto; }
+![](/icons/godot.svg =250x250)

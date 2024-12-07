@@ -21,13 +21,13 @@
 - [BlueSky](https://bsky.app/profile/z3r0g7.bsky.social)
 
 # Proyectos destacados
-|Nombre | Descripción | Nombre de proyecto padre |Dueño/Autor| Sitio web |
-|-|-|-|-|-|
-|RITF Mod engine | Un programa para facilita la tarea de escribir codigo en renpy y poder hacer Mods para el juego | ![Roses In the Flames](https://rosesintheflames.com/_app/immutable/assets/favicon.DmMNJCw7.png) | CringleDragons | [Click](https://rosesintheflames.com/about)|
-| CrepVerse | Un "compilador" de texto a html para ayudar a crear de forma mas facil y rapida paginas para la web | ![Creature Verse](https://www.creatureverse.net/data/img/ui/icon.png) | Elementus/Sky | [Click](https://www.creatureverse.net/)|
-| VOP-3D | Un motor para crear videojuegos, principalmente horientado a usarse a mi futuro videojuego Endless Eternity, un MMORPG con multiples vistas capaz de correr en multiples plataformas bajo un mismo motor y con diferentes tipo de recursos | [Virtual Object Process 3D](https://github.com/Z3R0GT/VOP-3D) | Z3R0_GT| [Click](https://conceptualizer.sytes.net/) |
-| Window Controller (WC) | Originalmente pensado para "facilitar" la creación de aplicaciones usando Tkinter, pero posteriormente sin soporte por problemas con la libreria y tiempo | [Window Controller](https://github.com/Z3R0GT/WC)| Z3R0_GT| [Click](https://conceptualizer.sytes.net/ |)|
+|Nombre | Descripción | Nombre de proyecto padre |Dueño/Autor |
+|-|-|-|-|
+|RITF Mod engine | Un programa para facilita la tarea de escribir codigo en renpy y poder hacer Mods para el juego | ![Roses In the Flames](https://rosesintheflames.com/_app/immutable/assets/favicon.DmMNJCw7.png "Roses in the flames")[Roses in the Flames]([Click](https://rosesintheflames.com/about)) | CringleDragons | 
+| CrepVerse | Un "compilador" de texto a html para ayudar a crear de forma mas facil y rapida paginas para la web | ![Creature Verse](https://www.creatureverse.net/data/img/ui/icon.png "creatureverse" )[Creature Verse](https://www.creatureverse.net/) | Elementus/Sky |
+| VOP-3D | Un motor para crear videojuegos, principalmente horientado a usarse a mi futuro videojuego Endless Eternity, un MMORPG con multiples vistas capaz de correr en multiples plataformas bajo un mismo motor y con diferentes tipo de recursos | [Virtual Object Process 3D](https://github.com/Z3R0GT/VOP-3D) | Z3R0_GT|
+| Window Controller (WC) | Originalmente pensado para "facilitar" la creación de aplicaciones usando Tkinter, pero posteriormente sin soporte por problemas con la libreria y tiempo | [Window Controller](https://github.com/Z3R0GT/WC)| Z3R0_GT|
 
-
+</p>
 
 > Espero que podamos conocernos mejor ::D

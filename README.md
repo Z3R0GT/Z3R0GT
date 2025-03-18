@@ -7,7 +7,7 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&duration=3500&pause=1000&color=5311F7&background=FFFFFF00&center=true&vCenter=true&width=600&height=100&lines=Fast+coding%3F;Effective+solutions%3F;Good+gaming%3F;All+at+once%3F;Here+I+am!" alt="Typing SVG" />
     </a>
-    <img src="img/background.png" width="1000" height="300" alt="Image description">
+    <img src="img/background.png" width="1000" height="380" alt="Image description">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

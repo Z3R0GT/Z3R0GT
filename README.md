@@ -126,11 +126,11 @@
 </div>    
 
 # Proyectos destacados
-|Nombre | Descripción | Nombre de proyecto padre |Dueño/Autor |
+|Name | Desc | Father's name | Owner/Autor |
 |-|-|-|-|
-|RITF Mod engine | Un programa para facilita la tarea de escribir codigo en renpy y poder hacer Mods para el juego | ![Roses In the Flames](https://rosesintheflames.com/_app/immutable/assets/favicon.DmMNJCw7.png "Roses in the flames")[Roses in the Flames]([Click](https://rosesintheflames.com/about)) | CringleDragons | 
-| CrepVerse | Un "compilador" de texto a html para ayudar a crear de forma mas facil y rapida paginas para la web | ![Creature Verse](https://www.creatureverse.net/data/img/ui/icon.png "creatureverse" )[Creature Verse](https://www.creatureverse.net/) | Elementus/Sky |
-| VOP-3D | Un motor para crear videojuegos, principalmente horientado a usarse a mi futuro videojuego Endless Eternity, un MMORPG con multiples vistas capaz de correr en multiples plataformas bajo un mismo motor y con diferentes tipo de recursos | [Virtual Object Process 3D](https://github.com/Z3R0GT/VOP-3D) | Z3R0_GT|
-| Window Controller (WC) | Originalmente pensado para "facilitar" la creación de aplicaciones usando Tkinter, pero posteriormente sin soporte por problemas con la libreria y tiempo | [Window Controller](https://github.com/Z3R0GT/WC)| Z3R0_GT|
+|RITF Mod engine | UA program to facilitate the task of writing code in Renpy and being able to make Mods for the game | ![Roses In the Flames](https://rosesintheflames.com/_app/immutable/assets/favicon.DmMNJCw7.png "Roses in the flames")[Roses in the Flames]([Click](https://rosesintheflames.com/about)) | CringleDragons | 
+| CrepVerse | A text-to-html compiler to help you create web pages more easily and quickly. | ![Creature Verse](https://www.creatureverse.net/data/img/ui/icon.png "creatureverse" )[Creature Verse](https://www.creatureverse.net/) | Elementus/Sky |
+| VOP-3D | An engine to create video games, mainly oriented to be used in my future video game Endless Eternity, a MMORPG with multiple views capable of running on multiple platforms under the same engine and with different types of resources.s | [Virtual Object Process 3D](https://github.com/Z3R0GT/VOP-3D) | Z3R0_GT|
+| Window Controller (WC) | Originally intended to "facilitate" the creation of applications using Tkinter, but subsequently lost support due to library and time issues | [Window Controller](https://github.com/Z3R0GT/WC)| Z3R0_GT|
 
 > Espero que podamos conocernos mejor ::D
